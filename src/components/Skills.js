@@ -11,7 +11,7 @@ const images = importAll(
 export class Skills extends Component {
   render() {
     return (
-      <div className="container-fluid text-center skills" id="skills">
+      <div className="container-fluid text-center" id="skills">
         <h2>What I Know</h2>
         <p className="lead">
           I am a full-stack web developer with a focus on front-end

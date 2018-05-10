@@ -5,7 +5,7 @@ export class Navbar extends Component {
     return (
       <div className="container-fluid nav-style" id="top">
         <nav className="navbar navbar-expand-md navbar-light bg-blue">
-          <a className="navbar-brand" href="#top">
+          <a className="navbar-brand" href="#">
             Peter H Choi
           </a>
           <button

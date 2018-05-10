@@ -7,7 +7,7 @@ export class Intro extends Component {
         <div className="jumbotron intro">
           <h1>Peter Choi</h1>
           <hr />
-          <h3>Just a web developer looking for some chicken fingers</h3>
+          <h3>Web Developer Actively Seeking Opportunites</h3>
         </div>
       </div>
     );
