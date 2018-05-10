@@ -6,8 +6,6 @@ import Skills from './Skills';
 import Projects from './Projects';
 import Contact from './Contact';
 
-import './App.css';
-
 class App extends Component {
   render() {
     return (

@@ -3,13 +3,13 @@ import React, { Component } from 'react';
 export class Navbar extends Component {
   render() {
     return (
-      <div class="container-fluid nav-style">
-        <nav class="navbar navbar-expand-md navbar-light bg-blue">
-          <a class="navbar-brand" href="#">
+      <div className="container-fluid nav-style" id="top">
+        <nav className="navbar navbar-expand-md navbar-light bg-blue">
+          <a className="navbar-brand" href="#top">
             Peter H Choi
           </a>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-toggle="collapse"
             data-target="#navbarNav"
@@ -17,22 +17,22 @@ export class Navbar extends Component {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon" />
+            <span className="navbar-toggler-icon" />
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="#skills">
+          <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav mr-auto">
+              <li className="nav-item">
+                <a className="nav-link" href="#skills">
                   Skills
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#projects">
+              <li className="nav-item">
+                <a className="nav-link" href="#projects">
                   Projects
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#contact">
+              <li className="nav-item">
+                <a className="nav-link" href="#contact">
                   Contact
                 </a>
               </li>

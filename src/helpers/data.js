@@ -44,7 +44,7 @@ export const projects = [
   }
 ];
 
-export const contact = [
+export const contactList = [
   {
     name: 'Email',
     link: 'mailto:phc284@gmail.com',
