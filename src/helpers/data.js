@@ -6,7 +6,7 @@ export const projects = [
   {
     name: 'ratemyoreo',
     description: 'Rate Your Favorite Oreo Flavors',
-    link: 'http://github.com/oreo',
+    link: 'http://github.com/phc284/oreo',
     construction: true
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
   {
     name: 'Dallas Cowboys Resource',
     description: 'Compilation of news sources for Dallas Cowboys Fans',
-    link: 'http://github.com/cowboys',
+    link: 'http://github.com/phc284/cowboys',
     construction: true
   },
   {
