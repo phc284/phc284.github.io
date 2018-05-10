@@ -13,7 +13,7 @@ export const projects = [
     name: 'Advocacy App',
     description:
       'Cross-platform app to streamline donation process for local homeless non-profit charities',
-    link: '',
+    link: 'http://mhfprojects.com/',
     construction: true,
     volunteer: true
   },
